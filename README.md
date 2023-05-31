@@ -6,7 +6,7 @@
 ## Запуск:
 
 ```
-git clone
+git clone https://github.com/KhalWell/dj_test_Api.git
 ```
 
 ### Вариант первый через докер
