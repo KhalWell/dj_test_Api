@@ -63,5 +63,12 @@ python manage.py runserver
 http://0.0.0.0:8000/swagger/
 или
 http://127.0.0.1:8000/swagger/
+```
+## Админка API 
+
+```
+http://0.0.0.0:8000/admin/
+или
+http://127.0.0.1:8000/admin/
 
 ```
